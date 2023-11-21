@@ -87,8 +87,7 @@ public class Main {
 			
 
 			case 5:
-
-				System.out.println("Insira os dados do Cliente a ser adicionado");
+				System.out.println("Insira os dados do Cliente a ser adicionado mudança");
 				
 				break;
 			// Sair
